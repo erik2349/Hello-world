@@ -6,7 +6,7 @@ this is my header
 
 int main( int argc, char **argv) {
 	
-	printf("hello world\n");
+	printf("Erik Sorensen\n");
 	
 	return 0;
     }
